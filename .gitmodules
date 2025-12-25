@@ -1,0 +1,6 @@
+[submodule "server/third_party/nanopb_src"]
+	path = server/third_party/nanopb_src
+	url = https://github.com/nanopb/nanopb.git
+[submodule "server/third_party/trezor-crypto"]
+	path = server/third_party/trezor-crypto
+	url = https://github.com/trezor/trezor-crypto.git
