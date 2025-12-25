@@ -48,6 +48,12 @@ Server verifies:
 
 ## Build & run (macOS)
 
+### Clone the repo
+
+```
+git clone --recurse-submodules <repo-url>
+```
+
 ### Prerequisites
 
 Install tools via Homebrew:
